@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1712953670 source:c:\users\hernandez\3d objects\guia 4\oslinux\main.cpp
+	<iostream>
+	"OSLinux.h"
+
+1712953788 c:\users\hernandez\3d objects\guia 4\oslinux\oslinux.h
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712953734 c:\users\hernandez\3d objects\guia 4\oslinux\iapariencia.h
+
+1712953849 source:c:\users\hernandez\3d objects\guia 4\oslinux\iapariencia.cpp
+	"iApariencia.h"
+
